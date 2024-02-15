@@ -48,8 +48,7 @@ class Program
                 return false;
             }
         }
-
-        // Geçerlilik kontrolüne başka özel kriterler de eklenebilir.
+ 
         return true;
     }
 }
