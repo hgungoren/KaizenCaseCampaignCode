@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode.csproj",
+        "projectName": "CaseKaizenCampaignCode",
+        "projectPath": "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode.csproj",
+        "packagesPath": "C:\\Users\\huseyin.gungoren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenCampaignCode\\CaseKaizenCampaignCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\huseyin.gungoren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.aka.sm/framework/dev/nuget": {},
+          "https://nuget.aka.sm/framework/prod/nuget": {},
+          "https://oldnuget.aka.sm/dev/nuget": {},
+          "https://oldnuget.aka.sm/prod/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
